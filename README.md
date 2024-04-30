@@ -1,7 +1,7 @@
 # React + TypeScript + [Vite](https://vitejs.dev/) + [Playwright](https://playwright.dev/)
 
 ```bash
-git clone 
+git clone https://github.com/vanribeiro/learning-playwright-e2e.git
 cd learning-playwright-e2e
 npm i
 ```
